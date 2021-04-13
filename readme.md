@@ -6,4 +6,4 @@ After doing the environment configuration and database migration the following m
 `php artisan db:seed`
 
 ## Note
-The user's name must be unique in every comment. The initial idea was create a user name selection to associate the comment to an existing user, else they are created. Only the latter got implemented for the meantime.
+The user's name must be unique in every comment. The initial idea was to create a user name selection to associate the comment to an existing user, else they are created. Only the latter got implemented for the meantime.
